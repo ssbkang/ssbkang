@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Hi There 👋
-
 I am Steven from New Zealand. I am currently working as a consultant mainly focusing on cloud-native technologies such as Kubernetes. 
 
 Outside of my day to day job, I contribute to [Portainer ](https://github.com/portainer) primarily around CI/CD pipelines for building multi-arch Docker container images. I also write [blogs](https://ssbkang.com) to share my real life experiences in IT.
